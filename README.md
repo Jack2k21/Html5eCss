@@ -10,10 +10,17 @@
      - p
      - header
      - footer
+     - src
+       - alt // usado para acessibilidade(descrever a imagem)
+     - 
   - Tags para links
      - a
        - href
        - mailto
        - tel
        - target
+     - list
+       - li
+       - ul
+       - ol
   
